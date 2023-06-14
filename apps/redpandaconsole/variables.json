@@ -2,13 +2,12 @@
   "name": "redpandaconsole",
   "trademark": "Redpanda Console",
   "url": "-",
-  "admin_url": "-",
+  "release": false,
   "fork_url": "https://github.com/redpanda-data/console",
   "version": "latest",
-  "requirements":{
+  "requirements": {
     "cpu": "1",
     "memory": "2",
-    "disk": "1",
     "url": "https://github.com/redpanda-data/console"
   }
 }

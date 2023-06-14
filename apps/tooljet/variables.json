@@ -1,12 +1,13 @@
 {
   "name": "tooljet",
   "trademark": "TooleJet",
+  "url": "-",
+  "release": false,
   "fork_url": "https://github.com/ToolJet/ToolJet",
   "version": "",
-  "requirements":{
+  "requirements": {
     "cpu": "2",
     "memory": "4",
-    "disk":"1",
     "url": "https://github.com/ToolJet/ToolJet"
   }
 }

@@ -5,10 +5,9 @@
   "release": false,
   "fork_url": "https://github.com/Mailu/Mailu",
   "version": "latest",
-  "requirements":{
+  "requirements": {
     "cpu": "1",
     "memory": "2",
-    "disk": "1",
     "url": "https://github.com/Mailu/Mailu"
   }
 }
